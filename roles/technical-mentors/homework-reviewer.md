@@ -1,43 +1,29 @@
 ---
-description: 'TL;DR: Reviewing students'' pull requests on GitHub'
+description: 'TL;DR: Reviewing trainees'' pull requests on GitHub'
 ---
 
-# Homework Reviewer
+# Assignment Reviewer
 
-All our students hand in homework every week by using pull requests on GitHub. In order for the students to improve as much as possible **we aim to review every pull request thoroughly**. This review process imitates the real world and can really help the students to improve their skills significantly. 🤓
+All our trainees hand in assignments every week by using pull requests on GitHub. In order for the trainees to improve as much as possible **we aim to review every pull request thoroughly**. This review process imitates the real world and can really help the trainees to improve their skills significantly. 🤓
 
 ## Responsibility
 
-As a Homework Mentor it is your responsibility to review homework. It is also your responsibility that all the homework submissions get reviewed by someone! It is not you that has to do all the reviewing, but you have the responsibility to make sure all submitted homeworks get a review. Normally the Homework Mentor(s) get help from the Teacher Assistant and sometimes also the Main Teacher. If you need additional hands - some of our alumni can help out too.
+As an Assignment Reviewer it is your responsibility to review the trainees' pull requests. It is also your responsibility that all the assignment submissions get reviewed by someone! It is not you that has to do all the reviewing, but you have the responsibility to make sure all submitted assignments get a review. Normally the Assignment Reviewer(s) get help from the Teacher Assistant and sometimes also the Main Teacher. If you need additional hands - some of our alumni can help out too.
 
-## How students hand in homework
+## How trainees hand in assignments
 
-The students receive homework every Sunday and hand in homework using pull requests during the week. The process goes like this:
+The trainees receive assignments every Sunday and hand them in using pull requests during the week. The process goes like this:
 
-1. The students create a pull request (PR) on their `hyf-homework` repo, fx [**https://github.com/panivita/hyf-homework**](https://github.com/panivita/hyf-homework)
+1. The trainees create a pull request (PR) on their `hyf-assignments` repo
 2. The PR now needs to be reviewed by a mentor. We always aim to get this done within 7 days of submission
-3. When the review has been received the students need to make changes based on the feedback
-4. When changes have been made they can merge their PR and they are now fully done with their homework
+3. When the review has been received the trainees need to make changes based on the feedback
+4. When changes have been made they can merge their PR and they are now fully done with their assignment
 
-There is a [**video here**](https://www.youtube.com/watch?v=XYlgh9hSWtw) that explains and shows how it works. There is an extra step which is that the students also need to review another class members homework (peer feedback).
-
-## How to find the right homework PR's
-
-To keep track of the homework PR's and their status (mentioned above) we have made a tool that makes this process easier: [**https://hyf-homework.herokuapp.com/**](https://hyf-homework.herokuapp.com/)
-
-Here you can select the class number you are responsible for (**fx class 19**) and then choose the module (**fx nodejs**). Then you have an overview of all the students that still need feedback for a specific module. You can then click on their PR and give feedback there. The website updates the student homework status by itself. It's important that you communicate with the other mentors which PR's you will be working on, so we avoid overlap.
-
-Every week our staff also tends to post an overview of all homework PR's that need reviewing in the respective Slack channel for mentors in the class (fx mentors-class19). Use this space to communicate with the rest of the teacher team and staff about anything that might be unclear.\
-\
-Our mentor Estefania recorded a nice video showing her process:&#x20;
-
-{% embed url="https://www.loom.com/share/f2f5b82a16344396b65945f10e99539f?sharedAppSource=personal_library" %}
-Estefania walking you through how to review homework :)
-{% endembed %}
+There is a [**video here**](https://www.youtube.com/watch?v=XYlgh9hSWtw) that explains and shows how it works. There is an extra step which is that the trainees also need to review another team members assignment (peer feedback).
 
 ## Communication with HYF or Lead Teacher
 
-It's quite important that you communicate with your teacher team and the staff. That could be if you get busy or something comes up that impedes your volunteering capacity. If you communicate with us then we can find another helper or get the other teachers to help out :) Everyone gets busy sometimes, but it's really important that all students can get feedback in good time.
+It's quite important that you communicate with your teacher team and the staff. That could be if you get busy or something comes up that impedes your volunteering capacity. If you communicate with us then we can find another helper or get the other teachers to help out :) Everyone gets busy sometimes, but it's really important that all trainees can get feedback in good time.
 
 ## Giving feedback
 
@@ -47,31 +33,31 @@ Give the review on the PR. You can see how to give feedback on a PR using Github
 
 ![](<../../.gitbook/assets/Screenshot 2021-05-24 at 16.11.30.png>)
 
-Try to keep the review at maximum 3 points the students can work on. There is no need to overdo it! Remember that you are responsible for up to 16 homeworks this week. Therefore try and coordinate with your teacher-team and manage your available time with the homeworks.
+Try to keep the review at maximum 3 points the trainees can work on. There is no need to overdo it! Remember that you are responsible for up to 16 assignments this week. Therefore try and coordinate with your teacher-team and manage your available time with the assignments.
 
 ## Giving an overview of general misconceptions
 
-It can be _super helpful_ for the [**Lead Teacher**](https://mentor.hackyourfuture.dk/roles/lead-teacher) to get an overview of how the class is doing with the homework. So if you notice things that the class is collectively getting wrong - then make an overview of those misconceptions so they can be addressed in the next session.
+It can be _super helpful_ for the [**Lead Teacher**](https://mentor.hackyourfuture.dk/roles/lead-teacher) to get an overview of how the team is doing with the assignment. So if you notice things that the  is collectively getting wrong - then make an overview of those misconceptions so they can be addressed in the next session.
 
-Here is an **example** of a Homework Mentor's overview of the class:
+Here is an **example** of a Assignment Reviewer's overview of the :
 
-After following `class14` homework for `Javascript 1 - Week 2` here are some notes:
+After following  assignment for `Javascript 1 - Week 2` here are some notes:
 
-* Many students have a problem with understanding return at functions.
+* Many trainees have a problem with understanding return at functions.
 * The most difficult question for them was the fourth student manager
-* Some students copied the other students' homework.
-* Many students don't know that they can use <= and >= is available when they compare at if condition.
+* Some trainees copied the other trainees' assignment.
+* Many trainees don't know that they can use <= and >= is available when they compare at if condition.
 * There is still a problem with understanding the goal of functions. What is the function, why do we use it, and when?
-*   When I told students at the feedback that they can give the parameter at the function a default value at:
+*   When I told trainees at the feedback that they can give the parameter at the function a default value at:
 
     function getFullname(firstname, surname, useFormalName = false) {
 
     I noticed confusion and difficulty understanding this.
-*   Using a lot of redundant `console.log` even if not mentioned in the question to log something. Also, I've seen at many homework that the return it like
+*   Using a lot of redundant `console.log` even if not mentioned in the question to log something. Also, I've seen at many assignment that the return it like
 
     return console.log(..)
 * Using unclear or non-expressive names for the variables like x, a and I have told them that it is preferable to use clear, meaningful names for variables and functions.
-*   At question 4 to check if the student exists or not. Very few were thinking of using includes of indexOf at the array. Many used complex loops to implement it.
+*   At question 4 to check if the trainee exists or not. Very few were thinking of using includes of indexOf at the array. Many used complex loops to implement it.
 
     \-There was no clear understanding of how to use codepen to test the code. (edited)
 

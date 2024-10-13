@@ -4,7 +4,7 @@ description: Where to find us in Aarhus :)
 
 # 📍 Location: Aarhus
 
-We host our onsite classes on **Sundays** between **12:00 - 16:00** at the IT-Union [PROSA](https://www.prosa.dk/) who were so kind to provide their location for our workshops. The address is Søren Frichs Vej 38K th., DK-8230. If you are volunteering, please arrive by 11:45 so there's time to grab a coffee and get set up.&#x20;
+We host our onsite sessions on **Sundays** between **12:00 - 16:00** at the IT-Union [PROSA](https://www.prosa.dk/) who were so kind to provide their location for our workshops. The address is Søren Frichs Vej 38K th., DK-8230. If you are volunteering, please arrive by 11:45 so there's time to grab a coffee and get set up.&#x20;
 
 <figure><img src="../.gitbook/assets/prosa-location.png" alt=""><figcaption><p>How to find the back entrance when you are standing in front of the building.</p></figcaption></figure>
 
