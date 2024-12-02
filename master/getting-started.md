@@ -36,7 +36,7 @@ As a mentor you can book a specific module where you are responsible for the tea
 * All modules have their own repository in our Github organization.
 * Check out the overview of our [**curriculum**](https://github.com/HackYourFuture-CPH/curriculum). Here you can find information about how and what we teach.
 * We divided everyone in our organization into GitHub teams, we have one for mentors, one for each trainee team etc. which all have different permissions.
-* We have a private repository where fellow mentors share their [**teaching-tips-and-tricks**](https://github.com/HackYourFuture/teaching\_tips\_tricks), if you are new to teaching or are just curious on what they think works well in team, take a look.
+* We have a private repository where fellow mentors share their [**teaching-tips-and-tricks**](https://github.com/HackYourFuture/teaching_tips_tricks), if you are new to teaching or are just curious on what they think works well in team, take a look.
 * Please contribute and help improve the curriculum. Just make a Pull Request or write the curriculum responsible!
 
 ## Workshops/Master Classes
@@ -49,4 +49,4 @@ We distinguish between [Code Mentors](../roles/technical-mentors/) & [Career Men
 
 ## The Volunteer Journey
 
-<figure><img src="../.gitbook/assets/Volunteer Journey Image.png" alt=""><figcaption><p>This is how new volunteers typically progress through volunteer roles at HYF.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Mentor Journey.png" alt=""><figcaption><p>This is how new volunteers typically progress through volunteer roles at HYF.</p></figcaption></figure>
