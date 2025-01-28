@@ -6,8 +6,6 @@
 
 We really appreciate that you're interested in being part of our community. In this guide we want to give you an overview of the different volunteer positions available and how to get started. By volunteering you contribute to our main goal: help trainees gain the necessary skills to find a job as a programmer. HackYourFuture has now helped over 500 participants across the EU to find work as a programmer. This is only possible with the support of you: **our volunteers**.
 
-We really appreciate that you're interested in being part of our community. In this guide we want to give you an overview of the different volunteer positions available and how to get started. By volunteering you contribute to our main goal: help trainees gain the necessary skills to find a job as a programmer. HackYourFuture has now helped over 500 participants across the EU to find work as a programmer. This is only possible with the support of you: **our volunteers**.
-
 ## Do you know why you're a hero(ine)?
 
 Because you can make the difference for our trainees mentoring and guiding them to become Junior Web Developers. To be a good mentor, you also need guidance - just as our trainees do. **That's what this Mentor Guide is for!**
