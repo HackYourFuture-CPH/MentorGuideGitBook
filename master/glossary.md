@@ -75,7 +75,7 @@ An individual who is actively learning as part of a Team on our Programme.
 
 The structured content and goals that we aim for Trainees to achieve during their time on the Programme.
 
-_See_ [_Curriculum (GitHub)_](glossary.md#session)
+_See_ [_Curriculum (GitHub)_](https://github.com/HackYourFuture-CPH/curriculum)
 
 ### Module
 
