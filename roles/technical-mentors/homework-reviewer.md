@@ -63,4 +63,4 @@ After following  assignment for `Javascript 1 - Week 2` here are some notes:
 
 ## Anything else?
 
-If we left any questions unanswered - reach out to one of our staff on Slack :nerd:&#x20;
+If we left any questions unanswered - reach out to one of our staff on Slack 🤓
