@@ -39,7 +39,7 @@ Our overall offering of mentorship, community and teaching of our Curriculum to 
 
 ### Session
 
-_(Previously "Class")_
+_(Previously "Lesson" and "Class")_
 
 The structured time we spend together e.g. every Sunday, to mentor Trainees making progress through the Programme.
 
