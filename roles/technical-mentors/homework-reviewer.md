@@ -8,38 +8,33 @@ All our trainees hand in assignments every week by using pull requests on GitHub
 
 ## Responsibility
 
-As an Assignment Reviewer it is your responsibility to review the trainees' pull requests. It is also your responsibility that all the assignment submissions get reviewed by someone! It is not you that has to do all the reviewing, but you have the responsibility to make sure all submitted assignments get a review. Normally the Assignment Reviewer(s) get help from the Teacher Assistant and sometimes also the Main Teacher. If you need additional hands - some of our alumni can help out too.
+As an Assignment Reviewer it is your responsibility to review the trainees' pull requests. It is also your responsibility that all the assignment submissions get reviewed by someone! It is not you that has to do all the reviewing, but you have the responsibility to make sure all submitted assignments get a review. Normally the Assignment Reviewer(s) get help from the Session Assistant and sometimes also the Session Lead. If you need additional hands - some of our alumni can help out too.
 
 ## How trainees hand in assignments
 
-The trainees receive assignments every Sunday and hand them in using pull requests during the week. The process goes like this:
+The trainees receive assignments every Sunday and hand them in using pull requests during the week.
 
-1. The trainees create a pull request (PR) on their `hyf-assignments` repo
-2. The PR now needs to be reviewed by a mentor. We always aim to get this done within 7 days of submission
-3. When the review has been received the trainees need to make changes based on the feedback
-4. When changes have been made they can merge their PR and they are now fully done with their assignment
+You can read more about how the process looks both from a trainee and mentor perspective in the [HYF Assignment Template readme](https://github.com/HackYourFuture-CPH/hyf-assignment-template/tree/main?tab=readme-ov-file#trainee-instructions).
 
-There is a [**video here**](https://www.youtube.com/watch?v=XYlgh9hSWtw) that explains and shows how it works. There is an extra step which is that the trainees also need to review another team members assignment (peer feedback).
+## Communication with HYF and the Session Lead
 
-## Communication with HYF or Lead Teacher
-
-It's quite important that you communicate with your teacher team and the staff. That could be if you get busy or something comes up that impedes your volunteering capacity. If you communicate with us then we can find another helper or get the other teachers to help out :) Everyone gets busy sometimes, but it's really important that all trainees can get feedback in good time.
+It's important that you communicate with your Session Lead, team and the HYF staff. That could be if you get busy or something comes up that impedes your volunteering capacity. While it's important that you can commit to your volunteering tasks, we also know that life can get in the way sometimes. In that case, it's really important that you communicate with us then we can find another volunteer to help out in your absence.
 
 ## Giving feedback
 
-Give the review on the PR. You can see how to give feedback on a PR using Github [**here**](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request).&#x20;
+All the feedback should be communicated through GitHub to give trainees a realistic experience. If you're new to GitHub or need a refresher on reviewing a PR, check out the [Commenting on a pull request guide (GitHub)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request).
 
 [**Here is an example**](https://github.com/sofiiadidovych/hyf-homework/pull/9) of some review given by mentor RassiBassi (Rasmus)
 
 ![](<../../.gitbook/assets/Screenshot 2021-05-24 at 16.11.30.png>)
 
-Try to keep the review at maximum 3 points the trainees can work on. There is no need to overdo it! Remember that you are responsible for up to 16 assignments this week. Therefore try and coordinate with your teacher-team and manage your available time with the assignments.
+Try to keep the review at maximum 3 points the trainees can work on. There is no need to overdo it! Remember that you are responsible for up to 16 assignments this week. Therefore try and coordinate with your volunteer team and manage your time as needed.
 
-## Giving an overview of general misconceptions
+## Sharing general feedback
 
-It can be _super helpful_ for the [**Lead Teacher**](https://mentor.hackyourfuture.dk/roles/lead-teacher) to get an overview of how the team is doing with the assignment. So if you notice things that the  is collectively getting wrong - then make an overview of those misconceptions so they can be addressed in the next session.
+It is really helpful for the [**Session Lead**](lead-teacher.md) to get an overview of how the team is doing with the assignment on a whole. So if you notice things that the team  is collectively getting wrong, patterns of mistakes, or important details that trainees seem to misunderstand - then make an overview of those challenges and share them with the Session Lead so they can be addressed in the next session.
 
-Here is an **example** of a Assignment Reviewer's overview of the :
+Here is an **example** of a Assignment Reviewer's overview of a JavaScript assignment:
 
 After following  assignment for `Javascript 1 - Week 2` here are some notes:
 
@@ -59,7 +54,7 @@ After following  assignment for `Javascript 1 - Week 2` here are some notes:
 * Using unclear or non-expressive names for the variables like x, a and I have told them that it is preferable to use clear, meaningful names for variables and functions.
 *   At question 4 to check if the trainee exists or not. Very few were thinking of using includes of indexOf at the array. Many used complex loops to implement it.
 
-    \-There was no clear understanding of how to use codepen to test the code. (edited)
+    -There was no clear understanding of how to use codepen to test the code. (edited)
 
 ## Anything else?
 
