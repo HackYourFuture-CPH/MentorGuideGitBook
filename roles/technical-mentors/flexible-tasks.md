@@ -28,7 +28,7 @@ Regularly posting job ads helps to calibrate the trainees' ability to select and
 
 ### 1:1 Code Mentor
 
-Some of our trainees struggle more than others to keep up with the high intensity of the bootcamp. If you are available for hopping on a video call for an hour per week, our staff can connect you to a struggling trainee who could use your guidance. In the calls, you would give feedback about their code and perhaps do some live trouble-shooting, but without solving assignments FOR the trainee. You and your mentee would organise the duration & cadence of the calls/meetings yourselves.&#x20;
+Some of our trainees struggle more than others to keep up with the high intensity of the programme. If you are available for hopping on a video call for an hour per week, our staff can connect you to a struggling trainee who could use your guidance. In the calls, you would give feedback about their code and perhaps do some live trouble-shooting, but without solving assignments FOR the trainee. You and your mentee would organise the duration & cadence of the calls/meetings yourselves.&#x20;
 
 Let our staff know if you have a hard time getting in touch with the mentee.
 

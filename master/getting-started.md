@@ -53,4 +53,4 @@ We distinguish between [Technical Mentors](../roles/technical-mentors/) & [Caree
 
 ## The Volunteer Journey
 
-<figure><img src="../.gitbook/assets/Mentor Journey.png" alt=""><figcaption><p>This is how new volunteers typically progress through volunteer roles at HYF.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/MentorJourneyWithLogo.png" alt=""><figcaption><p>This is how new volunteers typically progress through volunteer roles at HYF.</p></figcaption></figure>

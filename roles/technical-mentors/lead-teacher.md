@@ -1,28 +1,30 @@
 # Session Lead
 
-The _Session Leads_’s role is that of a director. You are tasked with taking control of the flow of the session and making sure it proceeds in a way that is beneficial not only to trainees but to volunteers as well. In the classroom, people will look to you as a figure of authority and leadership. As a _Session Lead_, you are ultimately responsible for what is taught in the session, the pace and the involvement of our other volunteers. It is an important and impactful role where you can have a huge impact on our trainees' education.
+The _Session Leads_’s role is that of a director. You are tasked with taking control of the flow of the session and making sure it proceeds in a way that is beneficial not only to trainees but to volunteers as well. In the session, people will look to you as a figure of authority and leadership. As a _Session Lead_, you are ultimately responsible for what is taught in the session, the pace and the involvement of our other volunteers. It is an important and impactful role where you can have a huge impact on our trainees' training.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-05-31 at 08.53.38.png" alt=""><figcaption><p>The Session Lead has the overarching responsibility for the module.</p></figcaption></figure>
 
-## Responsibility
+## Responsibilities
 
 Your responsibility as a Session Lead is to teach the learning goals for each week and make sure that all trainees can keep up with the session.
 
-| Coordinate                                                                                                                                                                                                                                                                                      | Plan                                                                                                                                                                                                                                                                                                                                                                                                                                    | Teach                                                                                                                                                                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Your primary role as a Session Lead is to coordinate and control the session. It is your job to guide the trainees and teaching assistants through the lesson plan and understand when people need more time or more guidance. Use your teaching assistants to help guide you in these efforts. | Before each lesson, you should organize with the other mentors what and how you are planning on delivering the content. It is so important that you - and the rest of the people you’re teaching with - thoroughly understand the content being taught and are prepared to deliver it to the team. Before each lesson you should understand the schedule for the day, when each exercise will be taught and how they will be delivered. | Teaching should always take the smallest amount of your time as you should move to examples as soon as you feel the trainees are ready. Where possible you should practice Active Teaching which means that you are responsive to the trainees' questions and misunderstandings. |
+| Coordinate                                                                                                                                                                                                                                                                                     | Plan                                                                                                                                                                                                                                                                                                                                                                                                                                      | Teach                                                                                                                                                                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Your primary role as a Session Lead is to coordinate and control the session. It is your job to guide the trainees and session assistants through the session plan and understand when people need more time or more guidance. Use your session assistants to help guide you in these efforts. | Before each session, you should organize with the other mentors what and how you are planning on delivering the content. It is so important that you - and the rest of the people you’re teaching with - thoroughly understand the content being taught and are prepared to deliver it to the team. Before each session you should understand the schedule for the day, when each exercise will be taught and how they will be delivered. | Teaching should always take the smallest amount of your time as you should move to examples as soon as you feel the trainees are ready. Where possible you should practice Active Teaching which means that you are responsive to the trainees' questions and misunderstandings and adapt as needed. |
 
-### Jobs in Sessions
+### Your Tasks in the Sessions
 
 | Before                                                                                                             | During                                                                                                                                            | After                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | <ul><li>Introduce yourself and the session mentors</li><li>Introduce the learning objectives for the day</li></ul> | <ul><li>Be aware of which trainees are struggling</li><li>Solicit answers from all trainees</li><li>Thank trainees for asking questions</li></ul> | <ul><li>Give a recap of the learning objectives</li><li>Thank the volunteers</li><li>Attend the retro to feedback on trainees</li></ul> |
 
-## Teaching at HackYourFuture - Copenhagen
+## Our flexible training approach
 
-At HackYourFuture we give our teachers lots of freedom to teach the way they want to. The only thing you need to do is teach the **learning goals** for each week. That is because the assignments are based on these learning goals and we don't want our trainees to struggle too much with completing them.
+At HackYourFuture, we give our mentors lots of freedom to teach in a way that suits them. The most important requirement is that you focus on the learning goals being met. These are defined in each module and week. This ensures the key knowledge and skills are taught, regardless of how they are taught. Many modules build upon previous learnings too, so we need to ensure trainees have the agreed understanding before moving on.
 
-The way you teach the session is up to you. There is a [**lesson plan**](https://github.com/HackYourFuture-CPH/JavaScript/blob/master/javascript2/week2/lesson-plan.md) for each module, but it's up to you if you want to use it.
+Each module comes with a Session Plan. This is a guide that can be used entirely, or as a starting point.
+
+It is important to contribute to our curriculum as you try new ways of teaching a module. You can fix issues, suggest improvements, add new exercises/assignments, or upload your materials (such as slides, code examples etc.) that future mentors can make use of. You should aim to leave the curriculum in a better place than how you found it every time you teach it. For more info, check out our [Contributing](https://github.com/HackYourFuture-CPH/programme/blob/main/contributing/README.md) guide.
 
 ## Running the session
 
@@ -41,42 +43,33 @@ The same goes for **experiential learning** (hands-on work) and **peer-assisted 
 We use Zoom for online sessions & recording. A staff member can either provide you login info to a HYF-owned Zoom account, or you can also use your own. In Zoom, remember to record the session and post the recorded video on the team's Slack channel. Optionally, when using HYF's Zoom accounts, record to the cloud and a HYF staff will share the recording
 
 **Talk with your session assistant**\
-Before a session try and talk to your session assistant(s) about how you want to work together. Should the session assistant fx. help introduce some topics, is it okay if the session assistant interrupts, etc.
+Before a session you should talk to your session assistant(s) about how you want to work together. Should the session assistant, for example, help introduce some topics, is it okay if the session assistant interrupts you, etc.
 
 **Assignment status**\
-Get an overview of how the team is doing. Use the [**Homework Checker tool**](https://hyf-homework-assesment.herokuapp.com/) **(deprecated)** to get a bit of an overview of how the team is doing, or scroll through the team's Slack channel. With an overview you can teach more targeted towards clearing out misconceptions in the session.
+Get an overview of how the team is doing. Check the team's Slack channel for the latest submitted assignments, and get some insight into what they are struggling with. Check in with the Assignment Reviewers too, for their perspective. With that overview, you can teach more targeted towards clearing out misconceptions in the session.
 
 **Breaks**\
 We take a long break around 14:00, to have lunch. (About 20 minutes). Otherwise, make sure to remember to take **short breaks about every 45 minutes** as it is a lot to take in for trainees and concentration will understandably drop if we don't take breaks.
 
 **Don't forget about the fun**\
-If you have an idea about how to combine the teaching with some more fun exercises - do it. Our curriculum is challenging and sometimes dry (it has to be), but that doesn't mean we can't take some digressions to have some fun and get the energy levels in the session up. Mitigating 'code scare' or demystifying the world of programming can be super important, especially in the start. A good resource for fun exercises is the [**teaching\_tips\_and\_tricks**](https://github.com/HackYourFuture/teaching\_tips\_tricks) repo. It's a collaborative effort between all HYF chapters and Pull Requests are more than welcome!
+If you have an idea about how to combine the teaching with some more fun exercises - do it. Our curriculum is challenging and sometimes dry (it has to be), but that doesn't mean we can't take some digressions to have some fun and get the energy levels in the session up. Demystifying the world of programming can be super important, especially in the start. Personal stories or learnings are always a good way to connect and inspire. A good resource for fun exercises is the [**teaching\_tips\_and\_tricks**](https://github.com/HackYourFuture/teaching_tips_tricks) repo. It's a collaborative effort between all HYF chapters and Pull Requests are more than welcome!
 
-**Online sessions**
-
-We try to run all sessions in person, but circumstances can sometimes require that we do the workshop online (epidemics, location issues, force majeure).\
-In any case, we always record the workshops online with Zoom. Always make sure to post the link into the team channel, so people following remotely (due to e.g. illness) can join live.
-
-Here are some things we learned from having all sessions online during **Covid**:
-
-* When you do exercises, make small groups of 3 people in breakout rooms
-* In Zoom you can raise your hand. Use that to figure out if people are following or if people have questions
+**Online sessions**\
+Our sessions are in person, by default. We believe in building a strong learning community, and our experience shows this is best achieved in person.\
+In certain circumstances (epidemics, location issues, force majeure) we have previously ran them online. In those cases, we can run it and record it on zoom. Reach out to a staff member to help facilitate that.
 
 ### Suggested Teaching Techniques
 
-**Live Coding**
-
+**Live Coding**\
 As a team you should work through a programming problem together. Ideally you should be the ‘hands’ :open\_hands: and the trainees should be the ‘brain’ :brain:. They should direct every keystroke of the solution. This is a great way of de-mystifying the coding process and slowly taking trainees through a concept or problem. The speed of your typing will limit the speed that you can deliver content and so is an ideal tool for pacing the lesson.
 
-**Worked Example**
+**Worked Example**\
+Bring a technical problem that you thoroughly understand and have prepared for. Your job as a Session Lead is to slowly reveal sections of the solution as trainees understand the different parts of it. It is important to move slowly and not reveal too much.
 
-Bring a programming problem that you thoroughly understand and have prepared for. Your job as a Session Lead is to slowly reveal sections of the solution as trainees understand the different parts of it. It is important to move slowly and not reveal too much.
-
-**Peer instruction**
-
+**Peer instruction**\
 Peer instruction is an interactive teaching method in which trainees discuss underlying concepts with each other during the lecture. Learning comes from the trainees helping each other explain concepts. Read more [**here**](https://hyfbe.gitbook.io/teacher-curriculum/topics/peer-instruction)**.**
 
-### Useful Links
+### Further Reading
 
 * [**The teacher curriculum**](https://hyfbe.gitbook.io/teacher-curriculum)
 * [**Super important video about active learning**](https://www.youtube.com/watch?v=Z9orbxoRofI)

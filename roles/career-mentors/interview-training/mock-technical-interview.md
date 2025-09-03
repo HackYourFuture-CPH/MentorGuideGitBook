@@ -52,7 +52,7 @@ As an Interview Trainer, you will bring your real-world experience into the proc
 ## General question catalog for the interviewers
 
 1. What was the most difficult part of the challenge?
-   1. talk about the problem and how you overcame the problem
+   1. Talk about the problem and how you overcame the problem
 2. What was your proudest implementation?
 3. What have you learned in this challenge?
 4. Why did you use the tools you chose for the challenge?
@@ -77,10 +77,8 @@ As an Interview Trainer, you will bring your real-world experience into the proc
 
 1. If you feel nervous, ask one of your prepared questions.
 
-<!---->
-
-2. Talk about technical and non-technical interests and passions (hobbies) because technical interviewers very likely will be your teammates in the future, and they would also be interested to know who you are.&#x20;
-3. Use the [interviewers’ question catalog](mock-technical-interview.md#general-question-catalog-for-interviewees) to formulate answers and maybe record them to see how they sound.
+2) Talk about technical and non-technical interests and passions (hobbies) because technical interviewers very likely will be your teammates in the future, and they would also be interested to know who you are.&#x20;
+3) Use the [interviewers’ question catalog](mock-technical-interview.md#general-question-catalog-for-interviewees) to formulate answers and maybe record them to see how they sound.
 
 </details>
 
