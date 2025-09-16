@@ -5,9 +5,7 @@ description: A list of commonly used terms we use
 # 📕 Glossary
 
 {% hint style="info" %}
-We have recently updated the language we use to shift away from school-like language to better represent our programme's philosophy.
-
-
+We have recently updated the language we use to shift away from school-like language to better represent our program's philosophy.
 
 You may still find traces of the outdated terms. How you can help the transition:
 
@@ -31,7 +29,7 @@ A mentor who has the role of reviewing Trainees' assignments (in the form of pul
 
 _See_ [homework-reviewer.md](../roles/technical-mentors/homework-reviewer.md "mention")
 
-### Programme
+### Program
 
 _(Previously "Bootcamp")_
 
@@ -41,7 +39,7 @@ Our overall offering of mentorship, community and teaching of our Curriculum to 
 
 _(Previously "Lesson" and "Class")_
 
-The structured time we spend together e.g. every Sunday, to mentor Trainees making progress through the Programme.
+The structured time we spend together e.g. every Sunday, to mentor Trainees making progress through the Program.
 
 ### Session Assistant
 
@@ -63,17 +61,17 @@ _See_ [lead-teacher.md](../roles/technical-mentors/lead-teacher.md "mention")
 
 _(Previously "Class")_
 
-A cohort of Trainees on our Programme.
+A cohort of Trainees on our Program.
 
 ### Trainee
 
 _(Previously "Student")_
 
-An individual who is actively learning as part of a Team on our Programme.
+An individual who is actively learning as part of a Team on our Program.
 
 ### Curriculum
 
-The structured content and goals that we aim for Trainees to achieve during their time on the Programme.
+The structured content and goals that we aim for Trainees to achieve during their time on the Program.
 
 _See_ [_Curriculum (GitHub)_](https://github.com/HackYourFuture-CPH/curriculum)
 

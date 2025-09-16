@@ -23,21 +23,21 @@ Our Slack workplace is the **main communication tool we use**. The workspace has
 * Q: **When do the workshops take place?**\
   A: Sundays 12:00 - 16:00
 
-## So how is the programme structured?
+## So how is the program structured?
 
-When trainees sign up for HYF, they join our 8 month programme which is split into two parts: a foundation course and a specialism course.&#x20;
+When trainees sign up for HYF, they join our 8 month program which is split into two parts: a foundation course and a specialism course.&#x20;
 
 <figure><img src="../.gitbook/assets/686cd4d8f1baa8f9a5317caa_Untitled presentation.png" alt=""><figcaption></figcaption></figure>
 
 Each course is made up of a number of modules, and each modules is made up of learning goals, session plan, preparation materials and assignments.
 
-For a full visual overview of the courses and their content, checkout out [our website](https://www.hackyourfuture.dk/apply) or dive into the content in the [Programme repo](https://github.com/HackYourFuture-CPH/programme).
+For a full visual overview of the courses and their content, checkout out [our website](https://www.hackyourfuture.dk/apply) or dive into the content in the [Program repo](https://github.com/HackYourFuture-CPH/programme).
 
 As a mentor you can book a specific module where you are responsible for the team reaching the learning goals during that time. Ask the staff for the schedule and be proactive about saying what modules you would like to teach.
 
 ## Modules
 
-* All modules have their own directory in the [Programme repo](https://github.com/HackYourFuture-CPH/programme).
+* All modules have their own directory in the [Program repo](https://github.com/HackYourFuture-CPH/programme).
 * Check out the overview Readme under each course to see more details about the modules and content covered. Start [here](https://github.com/HackYourFuture-CPH/programme/tree/main/courses) if you want to look around.
 * We divided everyone in our organization into GitHub teams, we have one for mentors, one for each trainee team etc. which all have different permissions.
 * We have a private repository where fellow mentors share their [**teaching-tips-and-tricks**](https://github.com/HackYourFuture/teaching_tips_tricks), if you are new to teaching or are just curious on what they think works well in team, take a look.

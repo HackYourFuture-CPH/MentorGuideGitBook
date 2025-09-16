@@ -25,6 +25,6 @@ You can find all the information you'll need to become a great HackYourFuture me
 * We work together on Sundays 🌤. We're adapted to our trainees realities, facing other challenges during the weekdays.
 * We breathe openness 👐. We're fully transparent and happy to share our methods and progress.
 * We help you let your future define you, not your past 💪. We train asylum seekers, refugees and others facing barriers to the Danish job educational system and job market.
-* We work to get our trainees into their tech job, not to just graduate our programme. 💼
+* We work to get our trainees into their tech job, not to just graduate our program. 💼
 * We are like a family 🧡. Our format is based on a grassroots community with volunteer coaches and mentors.
 * We advocate for diversity 🧕. We strongly encourage women to participate. Over 50% of our trainees are women.

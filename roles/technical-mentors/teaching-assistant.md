@@ -39,4 +39,4 @@ As a Session Assistant, your job is not to understand **what** the trainee doesn
 
 _Assignments in mind_
 
-When mentoring a trainee you should always have the assignments for the week in mind. You should be helping them to understand concepts well enough so that you can confidently say that they will be able to complete the assignments to a sufficient level. If you don’t know the assignments for the week, check in the Programme repo and ask your [**Session Lead**](https://mentor.hackyourfuture.dk/roles/lead-teacher) if you still have questions.
+When mentoring a trainee you should always have the assignments for the week in mind. You should be helping them to understand concepts well enough so that you can confidently say that they will be able to complete the assignments to a sufficient level. If you don’t know the assignments for the week, check in the Program docs and ask your [**Session Lead**](https://mentor.hackyourfuture.dk/roles/lead-teacher) if you still have questions.
