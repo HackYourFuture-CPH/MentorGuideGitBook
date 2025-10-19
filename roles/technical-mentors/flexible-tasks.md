@@ -36,4 +36,4 @@ Let our staff know if you have a hard time getting in touch with the mentee.
 
 We group different volunteering roles that have to do with preparing our graduates for the job-market & landing their first job under this category. You can read more about all the different roles on the [Career Mentors](../career-mentors/) page.
 
-A quick and simple way to help out is to check the **#jobapplication-feedback-support** channel and give feedback on the CV's posted in there.
+A quick and simple way to help out is to check [the **#jobapplication-feedback-support** channel](https://app.slack.com/client/T428UGBJA/CQ5KGGN8H) and give feedback on the CVs posted in there.
