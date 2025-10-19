@@ -19,7 +19,7 @@ Our Slack workplace is the **main communication tool we use**. The workspace has
 - Q: **Will I be leading the workshops all by myself?**\
   A: No, the sessions are always run by a small group of volunteers. This allows for less pressure on the individual, split responsibility, and a broader perspective for our trainees.
 - Q: **Do I have to teach exactly like it says in the curriculum?**\
-  A: Not strictly. We have a clear curriculum with set learning goals and examples. The learning goals are the most important outcomes that you must help trainees reach by the end of the module. However, how you approach teaching those, specific materials you introduce or new ideas for exercises are always welcomed. Our curriculum is open-source, so you are welcome (and strongly encouraged!) to contribute to it with your own ideas. Check out our [Contributing guide](https://github.com/HackYourFuture-CPH/programme/tree/main/contributing), if you're interested.
+  A: Not strictly. We have a clear curriculum with set learning goals and examples. The learning goals are the most important outcomes that you must help trainees reach by the end of the module. However, how you approach teaching those, specific materials you introduce or new ideas for exercises are always welcomed. Our curriculum is open-source, so you are welcome (and strongly encouraged!) to contribute to it with your own ideas. Check out our [Contributing guide](https://github.com/HackYourFuture-CPH/program/tree/main/contributing), if you're interested.
 - Q: **When do the workshops take place?**\
   A: Sundays 12:00 - 16:00
 
@@ -31,14 +31,14 @@ When trainees sign up for HYF, they join our 8 month program which is split into
 
 Each course is made up of a number of modules, and each modules is made up of learning goals, session plan, preparation materials and assignments.
 
-For a full visual overview of the courses and their content, checkout out [our website](https://www.hackyourfuture.dk/apply) or dive into the content in the [Program repo](https://github.com/HackYourFuture-CPH/programme).
+For a full visual overview of the courses and their content, checkout out [our website](https://www.hackyourfuture.dk/apply) or dive into the content in the [Program repo](https://github.com/HackYourFuture-CPH/program).
 
 As a mentor you can book a specific module where you are responsible for the team reaching the learning goals during that time. Ask the staff for the schedule and be proactive about saying what modules you would like to teach.
 
 ## Modules
 
-- All modules have their own directory in the [Program repo](https://github.com/HackYourFuture-CPH/programme).
-- Check out the overview Readme under each course to see more details about the modules and content covered. Start with [Courses](https://github.com/HackYourFuture-CPH/programme/tree/main/courses) if you want to look around.
+- All modules have their own directory in the [Program repo](https://github.com/HackYourFuture-CPH/program).
+- Check out the overview Readme under each course to see more details about the modules and content covered. Start with [Courses](https://github.com/HackYourFuture-CPH/program/tree/main/courses) if you want to look around.
 - We divided everyone in our organization into GitHub teams, we have one for mentors, one for each trainee team etc. which all have different permissions.
 - We have a private repository where fellow mentors share their [**teaching-tips-and-tricks**](https://github.com/HackYourFuture/teaching_tips_tricks), if you are new to teaching or are just curious on what they think works well in team, take a look.
 - Please contribute and help improve the curriculum. Just make a Pull Request or share your feedback in slack ([#curriculum-crew](https://hackyourfuture-cph.slack.com/archives/C070USK1UET) is a good place to start).
