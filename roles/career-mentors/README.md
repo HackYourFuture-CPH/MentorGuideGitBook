@@ -12,8 +12,8 @@ These roles are for volunteers with and without a technical background, but **in
 
 We split up these volunteering roles in 3 main categories:
 
-* [Jobseeker Toolkit](jobseeker-toolkit.md) (CV, Linkedin, GitHub)
-* [Interview Training](interview-training/) (HR & Technical interview scenarios)
-* [1:1 Career Coaching](1-1-career-coach.md) (individual mentoring)
+- [Jobseeker Toolkit](jobseeker-toolkit.md) (CV, Linkedin, GitHub)
+- [Interview Training](interview-training/) (HR & Technical interview scenarios)
+- [1:1 Career Coaching](1-1-career-coach.md) (individual mentoring)
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-05-03 at 09.15.28.png" alt=""><figcaption><p>A Career Mentor coaching HYF graduates about their "Jobseeker Toolkit" - CV, Linkedin, GitHub. (April 2023)</p></figcaption></figure>

@@ -10,10 +10,10 @@ We appreciate the differences in our graduates' backgrounds & professional profi
 \
 Below you can read up on the advice that we give to all graduates, so everyone starts with a similar baseline & structure. If you don't know how to advise a trainee, stick to these suggestions. Then at least it's consistent. From there, you can always go into more depth & detail.
 
-### Standard advice
+## Standard advice
 
-* [CV](https://github.com/HackYourFuture-CPH/yourpersonalbrand/blob/main/yourcurriculum.md)
-* [Linkedin Profile](https://github.com/HackYourFuture-CPH/yourpersonalbrand/blob/main/yourlinkedin.md)
-* [GitHub profile](https://github.com/HackYourFuture-CPH/yourpersonalbrand/blob/main/yourgithub.md)
+- [CV](https://github.com/HackYourFuture-CPH/yourpersonalbrand/blob/main/yourcurriculum.md)
+- [Linkedin Profile](https://github.com/HackYourFuture-CPH/yourpersonalbrand/blob/main/yourlinkedin.md)
+- [GitHub profile](https://github.com/HackYourFuture-CPH/yourpersonalbrand/blob/main/yourgithub.md)
 
 <figure><img src="../../.gitbook/assets/Hack-Your-Future-LOW-5518(1).jpg" alt=""><figcaption></figcaption></figure>
