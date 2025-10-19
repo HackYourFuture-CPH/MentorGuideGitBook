@@ -12,6 +12,6 @@ There is parking available, but you will need to use the parking spots designate
 \
 The Busses 12 & 4A stop nearby and can take you there in about 15 minutes from Aarhus Central Station.
 
-Please always give our staff a heads-up if you plan to swing by for a visit via aarhus@hackyourfuture.dk.\
+Please always give our staff a heads-up if you plan to swing by for a visit via <aarhus@hackyourfuture.dk>.\
 \
 Hope to see you soon!
