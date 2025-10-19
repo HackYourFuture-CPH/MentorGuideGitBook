@@ -6,8 +6,8 @@ description: CV, Linkedin & GitHub constitute the trifecta of the "jobseeker too
 
 As a career mentor helping out with **CV**, **Linkedin** & **GitHub** pages, your goal is to help the graduates make their professional profiles as attractive as possible to employers.
 
-We appreciate the differences in our graduates' backgrounds & professional profiles, but we also try to start by giving consistent guidelines for creating what we consider an attractive "**Jobseeker Toolkit"**.\
-\
+We appreciate the differences in our graduates' backgrounds & professional profiles, but we also try to start by giving consistent guidelines for creating what we consider an attractive "**Jobseeker Toolkit"**.
+
 Below you can read up on the advice that we give to all graduates, so everyone starts with a similar baseline & structure. If you don't know how to advise a trainee, stick to these suggestions. Then at least it's consistent. From there, you can always go into more depth & detail.
 
 ## Standard advice

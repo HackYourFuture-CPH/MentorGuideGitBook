@@ -11,7 +11,7 @@ Our Slack workplace is the **main communication tool we use**. The workspace has
 ## FAQ
 
 - Q: **How long do I have to commit as a volunteer?**\
-  A: The duration of the module you are helping out with. ([see below](https://mentor.hackyourfuture.dk/getting-started#so-how-is-the-curriculum-structured)) However, there is no limitation to how many modules you want to be part of.&#x20;
+  A: The duration of the module you are helping out with. ([see below](https://mentor.hackyourfuture.dk/getting-started#so-how-is-the-curriculum-structured)) However, there is no limitation to how many modules you want to be part of.
 - Q: **How much time does mentoring require per week?**\
   A: It depends on the role, but aim at about 7-8 hours per week.
 - Q: **Do I need to be a working professional to teach?**\
@@ -25,7 +25,7 @@ Our Slack workplace is the **main communication tool we use**. The workspace has
 
 ## So how is the program structured?
 
-When trainees sign up for HYF, they join our 8 month program which is split into two parts: a foundation course and a specialism course.&#x20;
+When trainees sign up for HYF, they join our 8 month program which is split into two parts: a foundation course and a specialism course.
 
 <figure><img src="../.gitbook/assets/686cd4d8f1baa8f9a5317caa_Untitled presentation.png" alt=""><figcaption></figcaption></figure>
 

@@ -7,6 +7,6 @@ description: >-
 
 # Live-coding Interview
 
-This type of training is intended for trainees who have already succeeded at landing interviews, or even internships. To prepare them for the challenging situation of encountering a live-coding interview, we offer this short training.\
-\
+This type of training is intended for trainees who have already succeeded at landing interviews, or even internships. To prepare them for the challenging situation of encountering a live-coding interview, we offer this short training.
+
 Content coming soon.

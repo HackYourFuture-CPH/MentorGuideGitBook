@@ -30,7 +30,7 @@ It is important to contribute to our curriculum as you try new ways of teaching 
 
 The session can be run in two different ways:
 
-1. **Flipped classroom**. Here the trainees watch the material before the session. That means that the session can be used for clearing up things, questions, exercises and assignments. This approach is about maximizing active learning which has [**been found to increase learning effectiveness**](https://news.harvard.edu/gazette/story/2019/09/study-shows-that-students-learn-more-when-taking-part-in-classrooms-that-employ-active-learning-strategies/)**.**
+1. **Flipped classroom**. Here the trainees watch the material before the session. That means that the session can be used for clearing up things, questions, exercises and assignments. This approach is about maximizing active learning which has [**been found to increase learning effectiveness**](https://news.harvard.edu/gazette/story/2019/09/study-shows-that-students-learn-more-when-taking-part-in-classrooms-that-employ-active-learning-strategies/).
 2. **Normal approach**. The trainees come to the session and are taught the topics of the week. When the teaching is over the trainees have time for exercises.
 
 It's up to you what approach you want to use. But we would like to encourage using flipped classroom, as most trainees report preferring this way of learning.
