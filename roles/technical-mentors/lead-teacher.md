@@ -24,7 +24,7 @@ At HackYourFuture, we give our mentors lots of freedom to teach in a way that su
 
 Each module comes with a Session Plan. This is a guide that can be used entirely, or as a starting point.
 
-It is important to contribute to our curriculum as you try new ways of teaching a module. You can fix issues, suggest improvements, add new exercises/assignments, or upload your materials (such as slides, code examples etc.) that future mentors can make use of. You should aim to leave the curriculum in a better place than how you found it every time you teach it. For more info, check out our [Contributing](https://github.com/HackYourFuture-CPH/programme/blob/main/contributing/README.md) guide.
+It is important to contribute to our curriculum as you try new ways of teaching a module. You can fix issues, suggest improvements, add new exercises/assignments, or upload your materials (such as slides, code examples etc.) that future mentors can make use of. You should aim to leave the curriculum in a better place than how you found it every time you teach it. For more info, check out our [Contributing](https://github.com/HackYourFuture-CPH/program/blob/main/contributing/README.md) guide.
 
 ## Running the session
 
