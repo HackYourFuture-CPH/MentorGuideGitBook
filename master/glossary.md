@@ -29,7 +29,7 @@ _(Previously "Homework Reviewer")_
 
 A mentor who has the role of reviewing Trainees' assignments (in the form of pull request reviews).
 
-_See_ [homework-reviewer.md](../roles/technical-mentors/homework-reviewer.md "mention")
+_See_ [Assignment Reviewer](../roles/technical-mentors/homework-reviewer.md)
 
 ### Program
 
@@ -49,7 +49,7 @@ _(Previously "Teacher Assistant")_
 
 A mentor who has the role of supporting the Session Lead and Trainees during a session.
 
-_See_ [teaching-assistant.md](../roles/technical-mentors/teaching-assistant.md "mention")
+_See_ [Session Assistant](../roles/technical-mentors/teaching-assistant.md)
 
 ### Session Lead
 
@@ -57,7 +57,7 @@ _(Previously "Lead Teacher")_
 
 A mentor who has the role of leading and directing a Session with the support of Session Assistants.
 
-_See_ [lead-teacher.md](../roles/technical-mentors/lead-teacher.md "mention")
+_See_ [Session Lead](../roles/technical-mentors/lead-teacher.md)
 
 ### Team
 
