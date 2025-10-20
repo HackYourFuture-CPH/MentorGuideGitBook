@@ -7,9 +7,9 @@
 ## Roles
 
 - [💻 Technical Mentors](roles/technical-mentors/README.md)
-  - [Assignment Reviewer](roles/technical-mentors/homework-reviewer.md)
-  - [Session Assistant](roles/technical-mentors/teaching-assistant.md)
-  - [Session Lead](roles/technical-mentors/lead-teacher.md)
+  - [Assignment Reviewer](roles/technical-mentors/assignment-reviewer.md)
+  - [Session Assistant](roles/technical-mentors/session-assistant.md)
+  - [Session Lead](roles/technical-mentors/session-lead.md)
   - [Flexible tasks](roles/technical-mentors/flexible-tasks.md)
 - [📈 Career Mentors](roles/career-mentors/README.md)
   - [Jobseeker Toolkit](roles/career-mentors/jobseeker-toolkit.md)

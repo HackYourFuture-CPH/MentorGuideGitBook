@@ -1,6 +1,6 @@
 # Session Assistant
 
-The Session Assistant's role is to help the [**Session Lead**](https://mentor.hackyourfuture.dk/roles/lead-teacher) get through the session as smooth as possible. That means primarily helping trainees when exercises are given. But it can also mean teaching some topics, coming with another perspective in the session, and keeping the Session Lead focused on the learning goals.
+The Session Assistant's role is to help the [**Session Lead**](./session-lead.md) get through the session as smooth as possible. That means primarily helping trainees when exercises are given. But it can also mean teaching some topics, coming with another perspective in the session, and keeping the Session Lead focused on the learning goals.
 
 Another important part is helping with reviewing assignments.
 
@@ -39,4 +39,4 @@ As a Session Assistant, your job is not to understand **what** the trainee doesn
 
 #### Assignments in mind
 
-When mentoring a trainee you should always have the assignments for the week in mind. You should be helping them to understand concepts well enough so that you can confidently say that they will be able to complete the assignments to a sufficient level. If you don’t know the assignments for the week, check in the Program docs and ask your [**Session Lead**](https://mentor.hackyourfuture.dk/roles/lead-teacher) if you still have questions.
+When mentoring a trainee you should always have the assignments for the week in mind. You should be helping them to understand concepts well enough so that you can confidently say that they will be able to complete the assignments to a sufficient level. If you don’t know the assignments for the week, check in the Program docs and ask your [**Session Lead**](./session-lead.md) if you still have questions.
