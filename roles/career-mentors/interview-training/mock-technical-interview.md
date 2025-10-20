@@ -30,7 +30,7 @@ As an Interview Trainer, you will bring your real-world experience into the proc
 2. Send the challenge over to trainees via Slack or email and make a fixed plan on when to have the interview day and then prep the trainees with the following instruction:
 
 {% hint style="info" %}
-💡 We will be doing a mock technical interview where you are given a technical challenge that you can do within \[a given timeframe depending on the assignment size]. Before the interview, you should send back the Github repo link _at least_ \[X days] before the scheduled interview so it can be reviewed by the interviewers. During the interview, one of you will be the interviewee and the rest of us will be the interviewers. You will be asked to do a small demo of the code you wrote and then we will start the interview questions.
+💡 We will be doing a mock technical interview where you are given a technical challenge that you can do within \[a given timeframe depending on the assignment size]. Before the interview, you should send back the GitHub repo link _at least_ \[X days] before the scheduled interview so it can be reviewed by the interviewers. During the interview, one of you will be the interviewee and the rest of us will be the interviewers. You will be asked to do a small demo of the code you wrote and then we will start the interview questions.
 {% endhint %}
 
 2. The interviewers should review the code and prepare some questions (either as review comments or personal notes) based on the given code.
