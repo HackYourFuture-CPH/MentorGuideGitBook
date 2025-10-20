@@ -8,7 +8,7 @@ There's _always_ something to do at HYF, but not always do availability and role
 
 ## #need-a-review
 
-On our Slack workspace you can find a channel "**#need-a-review**" dedicated to assignment submissions from trainees that have not yet gotten reviewed. This task is basically the same as [Assignment Reviewer](homework-reviewer.md), just that it's not time-bound and you can focus on a single assignment submission, instead of several.
+On our Slack workspace you can find a channel "**#need-a-review**" dedicated to assignment submissions from trainees that have not yet gotten reviewed. This task is basically the same as [Assignment Reviewer](assignment-reviewer.md), just that it's not time-bound and you can focus on a single assignment submission, instead of several.
 
 We estimate the time commitment to be between **30-60 minutes** here, as you would be using some time on understanding the exercises the trainee was trying to solve before you go in to add feedback to their code.
 

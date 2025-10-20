@@ -32,7 +32,7 @@ Try to keep the review at maximum 3 points the trainees can work on. There is no
 
 ## Sharing general feedback
 
-It is really helpful for the [**Session Lead**](lead-teacher.md) to get an overview of how the team is doing with the assignment on a whole. So if you notice things that the team is collectively getting wrong, patterns of mistakes, or important details that trainees seem to misunderstand - then make an overview of those challenges and share them with the Session Lead so they can be addressed in the next session.
+It is really helpful for the [**Session Lead**](session-lead.md) to get an overview of how the team is doing with the assignment on a whole. So if you notice things that the team is collectively getting wrong, patterns of mistakes, or important details that trainees seem to misunderstand - then make an overview of those challenges and share them with the Session Lead so they can be addressed in the next session.
 
 Here is an **example** of a Assignment Reviewer's overview of a JavaScript assignment:
 
