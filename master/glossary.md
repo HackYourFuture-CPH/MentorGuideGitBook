@@ -11,9 +11,11 @@ You may still find traces of the outdated terms. How you can help the transition
 
 1. Please update outdated terms if you spot them anywhere, or raise them to a staff member.
 2. If you hear people use any outdated terms, feel free to kindly nudge them towards the new terms (or point them to this page for clarification).
-{% endhint %}
+   {% endhint %}
 
 ## Definitions
+
+<!-- markdownlint-disable no-emphasis-as-heading -->
 
 ### Assignments
 
@@ -27,7 +29,7 @@ _(Previously "Homework Reviewer")_
 
 A mentor who has the role of reviewing Trainees' assignments (in the form of pull request reviews).
 
-_See_ [homework-reviewer.md](../roles/technical-mentors/homework-reviewer.md "mention")
+_See_ [Assignment Reviewer](../roles/technical-mentors/homework-reviewer.md)
 
 ### Program
 
@@ -47,7 +49,7 @@ _(Previously "Teacher Assistant")_
 
 A mentor who has the role of supporting the Session Lead and Trainees during a session.
 
-_See_ [teaching-assistant.md](../roles/technical-mentors/teaching-assistant.md "mention")
+_See_ [Session Assistant](../roles/technical-mentors/teaching-assistant.md)
 
 ### Session Lead
 
@@ -55,7 +57,7 @@ _(Previously "Lead Teacher")_
 
 A mentor who has the role of leading and directing a Session with the support of Session Assistants.
 
-_See_ [lead-teacher.md](../roles/technical-mentors/lead-teacher.md "mention")
+_See_ [Session Lead](../roles/technical-mentors/lead-teacher.md)
 
 ### Team
 
@@ -78,3 +80,5 @@ _See_ [_Curriculum (GitHub)_](https://github.com/HackYourFuture-CPH/curriculum)
 ### Module
 
 A unit of the Curriculum that focuses on a specific theme e.g. "JavaScript".
+
+<!-- markdownlint-enable no-emphasis-as-heading -->

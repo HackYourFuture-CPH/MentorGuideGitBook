@@ -1,0 +1,25 @@
+{
+  "name": "mentorguidegitbook",
+  "version": "1.0.0",
+  "description": "![Workshop session at HackYourFuture in Copenhagen](.gitbook/assets/mentor-guide-banner.png)",
+  "homepage": "https://github.com/HackYourFuture-CPH/MentorGuideGitBook#readme",
+  "bugs": {
+    "url": "https://github.com/HackYourFuture-CPH/MentorGuideGitBook/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackYourFuture-CPH/MentorGuideGitBook.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.45.0",
+    "markdownlint-rule-search-replace": "^1.2.0",
+    "prettier": "^3.6.2"
+  }
+}
