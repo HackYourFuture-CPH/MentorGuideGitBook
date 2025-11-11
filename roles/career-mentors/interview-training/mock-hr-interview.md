@@ -16,19 +16,17 @@ This assignment is for people who have experience with job interviews / HR / Tal
 
 There are volunteers with and without tech competencies who offer Mock interviews when an IT unemployed person needs training right up to a job interview. HYF's employees will coordinate when the effort is needed. Typically, the IT unemployed person will provide the job advertisement and his CV, which the mock interview will be based on.
 
-#### Requirements
+### Requirements
 
-* 2 hours, incl. preparation, interview & feedback, per volunteer
-* 1-2 volunteers per activity
-* Opportunity to engage in the task with a colleague, where two people together can conduct the “mock interview” (ideally a person with interview experience and a person with knowledge of web development).
-* Opportunity to engage in the task of several rounds with different IT-unemployed persons, but this is not a requirement.
+- 2 hours, including preparation, interview & feedback, per volunteer
+- 1-2 volunteers per activity
+- Opportunity to engage in the task with a colleague, where two people together can conduct the “mock interview” (ideally a person with interview experience and a person with knowledge of web development).
+- Opportunity to engage in the task of several rounds with different IT-unemployed persons, but this is not a requirement.
 
-#### Task example:&#x20;
+### Task example
 
 Prior to the “mock interview”, you will be sent a CV and Cover Letter for the person you will be interviewing, and the position in question. During the day, you meet at HYF on a Sunday around 12/13 (or optionally on a day and time of your choice) and are introduced to the person you are interviewing. At HYF you will have a meeting room where you can conduct the interview and take the subsequent feedback talk. You have the opportunity to have lunch at HYF after the interview.
 
-### Tips
+## Tips
 
-* Try to be mindful, but realistic with your feedback. An overly sugar-coated feedback will not reflect the reality of a very competitive job-market.
-
-##
+- Try to be mindful, but realistic with your feedback. An overly sugar-coated feedback will not reflect the reality of a very competitive job-market.

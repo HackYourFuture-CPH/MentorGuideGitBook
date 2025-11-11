@@ -24,13 +24,13 @@ At HackYourFuture, we give our mentors lots of freedom to teach in a way that su
 
 Each module comes with a Session Plan. This is a guide that can be used entirely, or as a starting point.
 
-It is important to contribute to our curriculum as you try new ways of teaching a module. You can fix issues, suggest improvements, add new exercises/assignments, or upload your materials (such as slides, code examples etc.) that future mentors can make use of. You should aim to leave the curriculum in a better place than how you found it every time you teach it. For more info, check out our [Contributing](https://github.com/HackYourFuture-CPH/programme/blob/main/contributing/README.md) guide.
+It is important to contribute to our curriculum as you try new ways of teaching a module. You can fix issues, suggest improvements, add new exercises/assignments, or upload your materials (such as slides, code examples etc.) that future mentors can make use of. You should aim to leave the curriculum in a better place than how you found it every time you teach it. For more info, check out our [Contributing](https://github.com/HackYourFuture-CPH/program/blob/main/contributing/README.md) guide.
 
 ## Running the session
 
 The session can be run in two different ways:
 
-1. **Flipped classroom**. Here the trainees watch the material before the session. That means that the session can be used for clearing up things, questions, exercises and assignments. This approach is about maximizing active learning which has [**been found to increase learning effectiveness**](https://news.harvard.edu/gazette/story/2019/09/study-shows-that-students-learn-more-when-taking-part-in-classrooms-that-employ-active-learning-strategies/)**.**
+1. **Flipped classroom**. Here the trainees watch the material before the session. That means that the session can be used for clearing up things, questions, exercises and assignments. This approach is about maximizing active learning which has [**been found to increase learning effectiveness**](https://news.harvard.edu/gazette/story/2019/09/study-shows-that-students-learn-more-when-taking-part-in-classrooms-that-employ-active-learning-strategies/).
 2. **Normal approach**. The trainees come to the session and are taught the topics of the week. When the teaching is over the trainees have time for exercises.
 
 It's up to you what approach you want to use. But we would like to encourage using flipped classroom, as most trainees report preferring this way of learning.
@@ -52,7 +52,7 @@ Get an overview of how the team is doing. Check the team's Slack channel for the
 We take a long break around 14:00, to have lunch. (About 20 minutes). Otherwise, make sure to remember to take **short breaks about every 45 minutes** as it is a lot to take in for trainees and concentration will understandably drop if we don't take breaks.
 
 **Don't forget about the fun**\
-If you have an idea about how to combine the teaching with some more fun exercises - do it. Our curriculum is challenging and sometimes dry (it has to be), but that doesn't mean we can't take some digressions to have some fun and get the energy levels in the session up. Demystifying the world of programming can be super important, especially in the start. Personal stories or learnings are always a good way to connect and inspire. A good resource for fun exercises is the [**teaching\_tips\_and\_tricks**](https://github.com/HackYourFuture/teaching_tips_tricks) repo. It's a collaborative effort between all HYF chapters and Pull Requests are more than welcome!
+If you have an idea about how to combine the teaching with some more fun exercises - do it. Our curriculum is challenging and sometimes dry (it has to be), but that doesn't mean we can't take some digressions to have some fun and get the energy levels in the session up. Demystifying the world of programming can be super important, especially in the start. Personal stories or learnings are always a good way to connect and inspire. A good resource for fun exercises is the [**teaching_tips_and_tricks**](https://github.com/HackYourFuture/teaching_tips_tricks) repo. It's a collaborative effort between all HYF chapters and Pull Requests are more than welcome!
 
 **Online sessions**\
 Our sessions are in person, by default. We believe in building a strong learning community, and our experience shows this is best achieved in person.\
@@ -61,15 +61,15 @@ In certain circumstances (epidemics, location issues, force majeure) we have pre
 ### Suggested Teaching Techniques
 
 **Live Coding**\
-As a team you should work through a programming problem together. Ideally you should be the ‘hands’ :open\_hands: and the trainees should be the ‘brain’ :brain:. They should direct every keystroke of the solution. This is a great way of de-mystifying the coding process and slowly taking trainees through a concept or problem. The speed of your typing will limit the speed that you can deliver content and so is an ideal tool for pacing the lesson.
+As a team you should work through a programming problem together. Ideally you should be the ‘hands’ :open_hands: and the trainees should be the ‘brain’ :brain:. They should direct every keystroke of the solution. This is a great way of de-mystifying the coding process and slowly taking trainees through a concept or problem. The speed of your typing will limit the speed that you can deliver content and so is an ideal tool for pacing the lesson.
 
 **Worked Example**\
 Bring a technical problem that you thoroughly understand and have prepared for. Your job as a Session Lead is to slowly reveal sections of the solution as trainees understand the different parts of it. It is important to move slowly and not reveal too much.
 
 **Peer instruction**\
-Peer instruction is an interactive teaching method in which trainees discuss underlying concepts with each other during the lecture. Learning comes from the trainees helping each other explain concepts. Read more [**here**](https://hyfbe.gitbook.io/teacher-curriculum/topics/peer-instruction)**.**
+Peer instruction is an interactive teaching method in which trainees discuss underlying concepts with each other during the lecture. Learning comes from the trainees helping each other explain concepts. [Read more](https://hyfbe.gitbook.io/teacher-curriculum/topics/peer-instruction).
 
 ### Further Reading
 
-* [**The teacher curriculum**](https://hyfbe.gitbook.io/teacher-curriculum)
-* [**Super important video about active learning**](https://www.youtube.com/watch?v=Z9orbxoRofI)
+- [**The teacher curriculum**](https://hyfbe.gitbook.io/teacher-curriculum)
+- [**Super important video about active learning**](https://www.youtube.com/watch?v=Z9orbxoRofI)
