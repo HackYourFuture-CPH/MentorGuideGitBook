@@ -11,9 +11,11 @@ You may still find traces of the outdated terms. How you can help the transition
 
 1. Please update outdated terms if you spot them anywhere, or raise them to a staff member.
 2. If you hear people use any outdated terms, feel free to kindly nudge them towards the new terms (or point them to this page for clarification).
-{% endhint %}
+   {% endhint %}
 
 ## Definitions
+
+<!-- markdownlint-disable no-emphasis-as-heading -->
 
 ### Assignments
 
@@ -78,3 +80,5 @@ _See_ [_Curriculum (GitHub)_](https://github.com/HackYourFuture-CPH/curriculum)
 ### Module
 
 A unit of the Curriculum that focuses on a specific theme e.g. "JavaScript".
+
+<!-- markdownlint-enable no-emphasis-as-heading -->

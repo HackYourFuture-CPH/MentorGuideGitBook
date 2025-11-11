@@ -1,0 +1,14 @@
+---
+$schema: https://raw.githubusercontent.com/DavidAnson/markdownlint/v0.38.0/schema/markdownlint-config-schema.json
+extends: markdownlint/style/prettier
+no-trailing-punctuation:
+  punctuation: .,;:。，；：！
+no-inline-html: false
+code-block-style:
+  style: fenced
+search-replace:
+  rules:
+    - name: plain-spaces
+      message: "hard spaces are not allowed"
+      searchPattern: "/(?![ \\n])\\s/g"
+      replace: " "

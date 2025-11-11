@@ -8,16 +8,16 @@ description: >-
 
 ## Preface
 
-Through this interview training we want to give the trainees a realistic impression of an interview situation that uses a code assignment as the point of departure for the conversation.\
-\
+Through this interview training we want to give the trainees a realistic impression of an interview situation that uses a code assignment as the point of departure for the conversation.
+
 **It's important not to sugar-coat your feedback**. For some trainees, this will be their very first interview experience before they encounter real-world interview situations where they will be evaluated on the same terms as all other job applicants. Therefore, a realistic assessment of their own performance will be most useful for their learning & success.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-03 at 09.12.04.png" alt=""><figcaption><p>Career mentors performing "Mock technical interviews" with HYF trainees. (April 2023)</p></figcaption></figure>
 
 ## Process
 
-The following instructions are designed for both an online meeting, or an in-person meeting.\
-\
+The following instructions are designed for both an online meeting, or an in-person meeting.
+
 We aim to involve **3 people** in each interview situation. **2 HYF trainees** and **1** [**Career Mentor**](../) will be paired up and the two HYF trainees will rotate through the roles of both interviewee & interviewer. The idea is that the HYF trainees will be able to understand the perspective from "both sides of the table", adding to their overall experience gained.
 
 As an Interview Trainer, you will bring your real-world experience into the process and assume the role of a Hiring Manager or Tech Lead. **Run the interview as close to how you would if you were hiring at your own company.**
@@ -77,7 +77,7 @@ As an Interview Trainer, you will bring your real-world experience into the proc
 
 1. If you feel nervous, ask one of your prepared questions.
 
-2) Talk about technical and non-technical interests and passions (hobbies) because technical interviewers very likely will be your teammates in the future, and they would also be interested to know who you are.&#x20;
+2) Talk about technical and non-technical interests and passions (hobbies) because technical interviewers very likely will be your teammates in the future, and they would also be interested to know who you are.
 3) Use the [interviewers’ question catalog](mock-technical-interview.md#general-question-catalog-for-interviewees) to formulate answers and maybe record them to see how they sound.
 
 </details>
